@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizAppRaushan</string>
+    <string name="my_laptop_name">MacBook Pro</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good!</string>
+
+
+
+    <string name="q1">Slugs have four noses.</string>
+    <string name="q2">Camels have three eyelids.</string>
+    <string name="q3">Fish have eyelids.</string>
+    <string name="q4">It is possible to lead a cow up stairs \'t but not down.</string>
+    <string name="q5">About 11% of the people in the world are left-handed.</string>
+    <string name="q6">You blink over 10,000,000 times a  \"Year\"</string>
+    <string name="q7">Strawberries contain more vitamin C than oranges.</string>
+    <string name="q8">orange is very strong.</string>
+    <string name="q9">Strawberries contain more vitamin C than oranges.</string>
+    <string name="q10">Strawberries contain more vitamin C than oranges.</string>
+    <string name="wrong_button">Wrong Button</string>
+    <string name="true_button">True Button</string>
+
+</resources>
