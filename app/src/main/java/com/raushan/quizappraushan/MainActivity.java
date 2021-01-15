@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
@@ -45,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mTxtQuestion = findViewById(R.id.txtQuestion);
+
+        Log.i("TAG","MESSAGE");
 
         QuizModel q1 = questionCollection[mQuestionIndex];
         mQuizQuestion = q1.getQuestion();
