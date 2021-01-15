@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
         mTxtQuestion = findViewById(R.id.txtQuestion);
 
         Log.i("TAG","MESSAGE");
+        Log.i("TAG","MESSAGE");
 
         QuizModel q1 = questionCollection[mQuestionIndex];
         mQuizQuestion = q1.getQuestion();
